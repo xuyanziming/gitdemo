@@ -7,3 +7,6 @@ devinfo
 
 
 proinfo
+
+
+testinfo
