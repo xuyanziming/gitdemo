@@ -14,3 +14,5 @@ testinfo
 test noff info
 
 test info is emergency,must handler now
+
+test private info
